@@ -1,0 +1,80 @@
+[
+    {
+        "id": 1,
+        "image":"/images/img1.png",
+        "category": "new",
+        "title": "Resin Art Pendant",
+        "description": "Elevate your style with our mesmerizing resin art pendants, each a wearable masterpiece crafted to caputure the essence of creativity and elegance",
+        "colors": [
+            "black",
+            "blue",
+            "white"
+        ],
+        "price": "Rs 300"
+    },
+    {
+        "id": 2,
+        "image":"/images/img2.png",
+        "category": "Permanent Collection",
+        "title": "Miniature Pendant",
+        "description": "The structured shoulders and sleek detailing ensure a sharp silhouette. Team it with a silk pocket square.",
+        "colors": [
+            "black",
+            "blue",
+            "white"
+        ],
+        "price": "Rs 200"
+    },
+    {
+        "id": 3,
+        "image":"/images/img3.png",
+        "category": "Permanent Collection",
+        "title": "ScentedCandles",
+        "description": "Enhance your space with our scented candles, bringing tranquility and soothing fragrance to your moments.",
+        "colors": [
+            "black",
+            "blue",
+            "white"
+        ],
+        "price": "Rs 300"
+    },
+    {
+        "id": 4,
+        "image":"/images/img4.png",
+        "category": "New",
+        "title": "Leafy Canvas",
+        "description": "A masterpiece of nature, captured on a leaf and preserved forever. A unique blend of artistry and the natural world.",
+        "colors": [
+            "black",
+            "blue",
+            "white"
+        ],
+        "price": "Rs 100"
+    },
+    {
+        "id": 5,
+        "image":"/images/img5.png",
+        "category": "New",
+        "title": "Creative Canvas",
+        "description": "Elevate your space with our exquisite canvas art,transforming your walls into a captivating gallery of expressive beauty.",
+        "colors": [
+            "black",
+            "blue",
+            "white"
+        ],
+        "price": "Rs 200"
+    },
+    {
+        "id": 6,
+        "image":"/images/img6.png",
+        "category": "Permanent Collection",
+        "title": "Tweed Suit",
+        "description": "The structured shoulders and sleek detailing ensure a sharp silhouette. Team it with a silk pocket square.",
+        "colors": [
+            "black",
+            "blue",
+            "white"
+        ],
+        "price": "$ 150"
+    }
+]
